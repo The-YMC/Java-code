@@ -1,0 +1,2 @@
+Java is a very useful programming language. How many students are there at Chung Ang University? 
+Seoul has a population of 20 million. The spring weather in Korea is very fantastic!
